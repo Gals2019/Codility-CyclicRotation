@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-CyclicRotation", "Codility-CyclicRotation.csproj", "{A8C95F72-8931-48BF-BD59-627B2CB761F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8C95F72-8931-48BF-BD59-627B2CB761F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C95F72-8931-48BF-BD59-627B2CB761F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C95F72-8931-48BF-BD59-627B2CB761F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C95F72-8931-48BF-BD59-627B2CB761F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B19CA9A-8FAF-464B-9067-8115D1828E55}
+	EndGlobalSection
+EndGlobal
